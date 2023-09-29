@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79ace3cd69121c14c95d4fb32cc372ff, type: 3}
   m_Name: AudioCallibrationSettings
   m_EditorClassIdentifier: 
-  maxAttribute: 0.15
+  maxAttribute: 0.1
   closeMouthFilter: 0.45
   semiCloseMouthFilter: 0.2
